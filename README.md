@@ -34,4 +34,4 @@ Challenges
 
 Screenshots
 
-<img src="pictures/1.png" width="100" height="200">  <img src="2.png" width="100" height="200"> <img src="3.png" width="100" height="200"> <img src="4.png" width="100" height="200"> <img src="5.png" width="100" height="200">  <img src="6.png" width="100" height="200">  <img src="7.png" width="100" height="200"> <img src="8.png" width="100" height="200">
+<img src="pictures/1.png" width="100" height="200">  <img src="pictures/2.png" width="100" height="200"> <img src="pictures/3.png" width="100" height="200"> <img src="pictures/4.png" width="100" height="200"> <img src="pictures/5.png" width="100" height="200">  <img src="pictures/6.png" width="100" height="200">  <img src="pictures/7.png" width="100" height="200"> <img src="pictures/8.png" width="100" height="200">
