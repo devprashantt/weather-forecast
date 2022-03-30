@@ -11,8 +11,11 @@ We’re going to make a weather app inspired by the beautiful designs made by Sn
 Working 🚨
 
 1-This application gives you the weather in your area.
+
 2-You just have to give your city name anywhere in the world and click the weather button and it will give the weather of your area with beautiful UI.
+
 3-When you will open app it will open with loading screen having circular pop up.
+
 4-After fetching data, when you will click on arrow button ( current location ) in top left side, it will give you the weather forecast of your area.
 
       What is in Weather Forecast 🍁
