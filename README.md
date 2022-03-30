@@ -34,4 +34,4 @@ Challenges
 
 Screenshots
 
-<img src="BMI Input.png" width="100" height="200">  <img src="BMI Gender1.png" width="100" height="200"> <img src="BMI Gender2.png" width="100" height="200"> <img src="BMI Result 1.png" width="100" height="200"> <img src="BMI Result 2.png" width="100" height="200">  <img src="BMI Result 3.png" width="100" height="200">  <img src="BMI Result 4.png" width="100" height="200"> 
+<img src="1.png" width="100" height="200">  <img src="2.png" width="100" height="200"> <img src="3.png" width="100" height="200"> <img src="4.png" width="100" height="200"> <img src="5.png" width="100" height="200">  <img src="6.png" width="100" height="200">  <img src="7.png" width="100" height="200"> <img src="8.png" width="100" height="200">
