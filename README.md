@@ -8,6 +8,23 @@ What We Have Created 👍
 
 We’re going to make a weather app inspired by the beautiful designs made by SneekyPeeks. You'll be able to find out the live weather data in the current location of the device as well as the weather for any city you can think of!
 
+Working 🚨
+
+1-This application gives you the weather in your area.
+2-You just have to give your city name anywhere in the world and click the weather button and it will give the weather of your area with beautiful UI.
+3-When you will open app it will open with loading screen having circular pop up.
+4-After fetching data, when you will click on arrow button ( current location ) in top left side, it will give you the weather forecast of your area.
+
+      What is in Weather Forecast 🍁
+      
+      1 - Temperature
+      2 - Weather Condition ( Rainy, Sunny, Cloudy, Ice )
+      3 - Location
+      4 - What you will need there ( like warm clothes in summer)
+      5 - Beautiful User Interface
+      
+One can also check the weather of any other location by clicking on right top side ( home like ) button and it will take you to new page, there they can fill your city information and get weather forecast of that area.
+
 Challenges 💡
 
       1-How to use Dart to perform asynchronous tasks.
