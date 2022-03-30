@@ -20,7 +20,7 @@ Working 🚨
       1 - Temperature
       2 - Weather Condition ( Rainy, Sunny, Cloudy, Ice )
       3 - Location
-      4 - What you will need there ( like warm clothes in summer)
+      4 - What you will need there ( like warm clothes in winter)
       5 - Beautiful User Interface
       
 One can also check the weather of any other location by clicking on right top side ( home like ) button and it will take you to new page, there they can fill your city information and get weather forecast of that area.
