@@ -1,6 +1,7 @@
 import 'package:geolocator/geolocator.dart';
+import 'package:flutter/foundation.dart';
 
-class Location{
+class Location {
   late double latitude;
   late double longitude;
 
@@ -11,9 +12,10 @@ class Location{
 
       latitude = position.latitude;
       longitude = position.longitude;
-
-    } catch(e) {
-      print(e);
+    } catch (e) {
+      if (kDebugMode) {
+        print(e);
+      }
     }
   }
 }
